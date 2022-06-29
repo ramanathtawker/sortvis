@@ -1,11 +1,6 @@
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
 
-//We only have to change background-color and height of the sorting element.
+
+
 
 var speed=1000;
 
@@ -57,9 +52,3 @@ function enable_buttons()
     },c_delay+=delay_time);
 }
 
-/*
-    *****************
-    DONE BY:-   TUMMALA KETHAN
-    
-    *****************
-*/
